@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning all about electronics, projects and programming.
 - 🌱 I’m currently studying automation engenieering in FEI.
 - 🛒 Part of Grupo Aut-comp as an application engineer!
-- 💞️ In love with tecnology new stuff!
+- 💞️ In love with tecnology and new stuff!
 - 📫 You can reach me by my professional email joao.lima@grupoautcomp.com.br !
 
 <!---
